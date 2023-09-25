@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body> 
+    <header><img src="https://nos.jkt-1.neo.id/mcdonalds/assets/img/brand/logo_mcd.png" alt="Logo" width="70"></header>
+    <header>
+        <nav>
+            <ul>
+                <li>menu</li>
+                <li>Promo</li>
+                <li><img src="https://mcdonalds.co.id/assets/img/reward/my-reward.svg" width="40"></li>
+                <li><img src="https://mcdonalds.co.id/assets/img/pokemon-go/img_pkemon-go-7.png" width="40"></li>
+                <li>Dunia Anak</li>
+                <li>Berita Terkini</li>
+                <li>Pahlawan Disekitar Kita</li>
+                <li>Makin Kenal Makin Sayang</li>
+                <ul>
+                    <li>Produk Kami</li>
+                    <li>Restoran Kami</li>
+                    <li>Komitmen Dan Tanggung Jawab Kami</li>
+                </ul>
+                <li><a href="">Lokasi</a></li>
+            </ul>
+        </nav>
+    </header>
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/home-banners/September2023/R5I9dvbnMpowwPYkTQVF.png" width="400"><br>
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/home-banners/September2023/uvQjOmFMvsb2gjHymx17.png" width="400"><br>
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/home-banners/September2023/dbeOF741whWwK7x8KLYv.png" width="400">
+
+    <h1>Promo Menarik</h1>
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/promos/September2023/1hpQDHTk5QFkqxI95ZTP.png" width="400">
+    <h5>McDonald's x MRT</h5>
+    <p>Berlaku hingga 31 December 2023</p>
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/promos/September2023/wvMqcGwdzRxH59HWxabo.png" width="400">
+    <h5>Ice Cream Cokelat McD</h5>
+    <p>Berlaku hingga 31 December 2023</p>
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/promos/September2023/p4WhOfv6qmbuVCTPpvDt.png" width="400">
+    <h5>Happy Meal Nerf</h5>
+    <p> Berlaku hingga 19 October 2023</p>
+
+    <button href="">Lihat Semua Promo</button>
+
+    <h2>Menu Favorit</h2>
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/foods/September2023/ECyVRi92DwGqD00enfl7.png" width="70">
+    <p>Big Mac®</p>
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/foods/September2019/QhZI0YBTJ3VLWbAqcdIK.png" width="70">
+    <p>PaNas 1</p>
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/foods/August2019/H0YCaF0JIpZX2Jwzzx5O.png" width="70">
+    <p>PaNas Spesial</p>
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/foods/September2023/Xsc5nAZ25VGigkkVb7vj.png" width="70">
+    <p>McChicken</p>
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/foods/September2019/qFoLKbSe1R3OJ75zAm4B.png" width="70">
+    <p>McNuggets®</p>
+
+    <button href="">Lihat Semua Menu</button><br><br>
+
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/assets/img/home/img_home-birthday.jpg" width="500">
+    <h2 class="title animated vp-fadeinup delayp1 visible fadeInUp full-visible">Ciptakan momen bahagia untuk si kecil</h2>
+    <p class="subtitle dark animated vp-fadeinup delayp2 visible fadeInUp full-visible">Semua hal seru hanya ada di Dunia Anak McDonald's</p>
+    <button>Pelajari Selengkapnya</button>
+    <h2 class="title text-dark vp-fadein visible animated fadeIn full-visible">Makin Hemat &amp; Praktis dengan Aplikasi McDonald’s Download Sekarang</h2>
+    <img src="https://mcdonalds.co.id/assets/img/common/button_appstore.png" class="img-fluid animated vp-fadein delayp2 visible fadeIn full-visible" alt="Play Store" width="80">
+    <img src="https://mcdonalds.co.id/assets/img/common/button_playstore.png" class="img-fluid animated vp-fadein delayp3 visible fadeIn full-visible" alt="Google Store" width="80"><br><br><br>
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/app-section-footers/February2021/G4irt6FwzMogUyJKVJXS.png" class="img-fluid img-phone animated vp-slideinup delayp2 visible slideInUp" width="400">
+    <h2 class="title text-white">Instagram McDonald's Indonesia</h2>
+    <button>Ikuti@mcdonaldsid</button><br><br><br>
+
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/assets/img/home/ig/img_ig-1.jpg" class="img-cover" width="200">
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/assets/img/home/ig/img_ig-3.jpg" class="img-cover" width="200">
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/assets/img/home/ig/img_ig-5.jpg" class="img-cover" width="200">
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/assets/img/home/ig/img_ig-6.jpg" class="img-cover" width="200">
+    <img src="https://nos.jkt-1.neo.id/mcdonalds/assets/img/home/ig/img_ig-4.jpg" class="img-cover" width="200">
+    <h2 class="title vp-fadeinup visible animated fadeInUp full-visible">Ayo belajar dan bekerja bersama!</h2>
+    <p class="subtitle vp-fadeinup visible animated fadeInUp full-visible">di McDonald’s, kami lebih dari sekedar bisnis. Kami adalah komunitas tempat Anda berlatih keterampilan hidup dan sebagai wadah untuk mengejar serta mewujudkan impianmu.</p>
+    <button>Lihat Lowongan</button>
+    <p>*Sesi pemotretan dilakukan dengan protokol kesehatan yang ketat dan karyawan telah divaksin dosis lengkap</p>
+
+    <footer>
+        <h5 class="footer-title">McDonald's</h5>
+        <a href="/contact">Hubungi Kami</a>
+        <a href="/newsroom">Newsroom</a>
+        <a href="/career">Karier</a>
+        <a href="/services">Layanan</a>
+        <a href="/food-safety">Sertifikasi &amp; Jaminan Kualitas</a>
+        <a href="/csr">CSR</a>
+        <a href="/app">Aplikasi McDonald’s</a>
+
+        <h5 class="footer-title">Hubungi Kami</h5>
+        <li>Facebook</li>
+        <li>Twiter</li>
+        <li>Instagram</li>
+        <li>Youtube</li>
+        <li>WhatsApp</li>
+        <img src="https://mcdonalds.co.id/assets/img/common/button_appstore.png" class="img-fluid animated vp-fadein delayp2 visible fadeIn full-visible" alt="Play Store" width="80">
+    <img src="https://mcdonalds.co.id/assets/img/common/button_playstore.png" class="img-fluid animated vp-fadein delayp3 visible fadeIn full-visible" alt="Google Store" width="80">
+
+    <h5 class="footer-title">Berlangganan newsletter McD</h5>
+    <input type="email" class="form-control" placeholder="Masukkan email" required="" name="email" id="subscribe-footer" pattern="[^@]+@[^@]+\.[a-zA-Z]{2,6}" control-id="ControlID-1">
+    <button class="btn btn-primary btn-submit btn-submit-footer sbscrb-tag" type="submit" id="button-addon-footer" control-id="ControlID-2">
+        Daftar
+    </button>
+    <div class="col-md order-md-first">
+        © 2023 McDonald's Indonesia
+    </div>
+    <a href="/privacy-policy">Kebijakan Privasi</a>
+    <a href="/terms-conditions">Syarat &amp; Ketentuan</a>
+    </footer>
+</body>
+</html>
